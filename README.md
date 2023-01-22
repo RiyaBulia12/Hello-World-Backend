@@ -12,9 +12,6 @@
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -58,7 +55,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- ** Generate Random Messages**
+- **Generate Random Messages**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -66,7 +63,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](Coming Soon)
+- Not available
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -114,7 +111,7 @@ To run the project, execute the following command:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>k
+## 👥 Authors <a name="authors"></a>
 
 👤 **Riya Bulia**
 
@@ -161,6 +158,6 @@ If you like this project give as a star! ⭐️
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
