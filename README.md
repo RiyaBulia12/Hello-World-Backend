@@ -4,6 +4,7 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
+  - [Frontend](#frontend)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
@@ -25,6 +26,8 @@
 
 > This project provides the endpoint to generate random greeting messages which in turn can be used by any Frontend application
 
+## FrontEnd  <a name="frontend"></a>
+ - [Hello World Frontend Link](https://github.com/RiyaBulia12/Hello-World-Frontend)
 
 ## 🛠 Built With <a name="built-with"></a>
 
